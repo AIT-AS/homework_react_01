@@ -27,8 +27,8 @@ function App() {    // Объявление компонента App как фу
       {/* <Lesson_05 /> */}
 
       {/* Homeworks */}
-      <Homework_02 />
-      {/* <Homework_03 /> */}
+      {/* <Homework_02 /> */}
+      <Homework_03 />
 
       {/* Consultation */}
       {/* <Consultation_03 /> */}
