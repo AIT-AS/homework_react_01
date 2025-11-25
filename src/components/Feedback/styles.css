@@ -1,0 +1,44 @@
+.feedback-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    width: 600px;
+    height: fit-content;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: rgb(26, 26, 29);
+    color: white;
+}
+
+.feedback-control {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.buttonwithcount-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 200px;
+}
+
+.count {
+   font-size: 40px;
+   color: white; 
+}
+
+.image {
+    width: 100px;
+    height: 100px;
+}
+
+.image-control {
+    width: 70px;
+    height: 70px;
+    cursor: pointer;
+}
