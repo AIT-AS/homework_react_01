@@ -1,0 +1,12 @@
+.homework_04_wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    background-color: rgb(7, 7, 61);
+}
+
+.button-control {
+    width: 400px;
+}
