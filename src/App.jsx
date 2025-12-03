@@ -23,7 +23,7 @@ function App() {    // Объявление компонента App как фу
       
       
       {/* Lessons */}
-      {/* <Lesson_02 />  */}
+      <Lesson_02 /> 
       {/* <Lesson_03 /> */}
       {/* <Lesson_04 /> */}
       {/* <Lesson_05 /> */}
@@ -31,7 +31,7 @@ function App() {    // Объявление компонента App как фу
       {/* Homeworks */}
       {/* <Homework_02 /> */}
       {/* <Homework_03 /> */}
-      <Homework_04 />
+      {/* <Homework_04 /> */}
 
       {/* Consultation */}
       {/* <Consultation_03 /> */}

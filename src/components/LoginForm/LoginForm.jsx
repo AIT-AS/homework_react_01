@@ -47,6 +47,3 @@ const login = (event) => {
 }
 
 export default LoginForm;
-
-
-
